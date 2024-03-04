@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Koushik Chowdhury</h1>
+<h1 align="center">Hi, I'm Koushik Chowdhury</h1>
 <img align = "right" alt = "coding" width = "400" src = "https://storage.googleapis.com/britech-blog-engineer-bri-3/2022/1/2022-01-11-102039576949-9d8e4389-8333-43df-8777-bc68e7f9ce00.jpg">
 <h3 align="center">A passionate MERN Stack Web developer from India</h3>
 
