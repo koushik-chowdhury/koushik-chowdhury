@@ -13,7 +13,7 @@
 
 
 
-- 💬 Ask me about **python, react, javascript**
+- 💬 Ask me about **python, react, node, javascript**
 
 - ⚡ Fun fact **Did you know that the first website ever created is still online? It was built by Tim Berners-Lee at CERN and went live on August 6, 1991.**
 
