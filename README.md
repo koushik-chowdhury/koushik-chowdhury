@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Koushik Chowdhury
 
-[![koushik](https://img.shields.io/badge/My-Website-%23E4405F.svg)](https://koushik-chowdhury.github.io/portfolio/)
+[![koushik](https://img.shields.io/badge/My-Website-%23E4405F.svg)](https://kads.in/portfolio/)
 
 </h1>
 
