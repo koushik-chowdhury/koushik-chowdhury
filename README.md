@@ -4,7 +4,7 @@
 
 </h1>
 
-<h3 align="center" style="font-size:25px">Building BharatUI ![image](https://github.com/user-attachments/assets/71a428c6-109d-41a6-95ef-25ed74c25beb)
+<h3 align="center" style="font-size:25px">Building BharatUI)
 </h3>
 
 
