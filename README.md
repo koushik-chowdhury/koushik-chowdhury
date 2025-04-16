@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Koushik Chowdhury
 
-[![koushik](https://img.shields.io/badge/My-Website-%23E4405F.svg)](https://kads.in)
+[![BharatUI](https://img.shields.io/badge/Bharat-UI-%23E4405F.svg)](https://www.bharatui.com)
 
 </h1>
 
-<h3 align="center" style="font-size:25px">A passionate fullstack developer from India</h3>
+<h3 align="center" style="font-size:25px">Building BharatUI ![image](https://github.com/user-attachments/assets/71a428c6-109d-41a6-95ef-25ed74c25beb)
+</h3>
 
 
 # 💫 About Me:
