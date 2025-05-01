@@ -4,7 +4,7 @@
 
 </h1>
 
-<h3 align="center" style="font-size:25px">Building BharatUI)
+<h3 align="center" style="font-size:25px">Building BharatUI
 </h3>
 
 
