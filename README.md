@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Koushik Chowdhury
+<h1 align="center">Hi 👋, I'm Kousik Chowdhury
 
 [![BharatUI](https://img.shields.io/badge/Bharat-UI-%23E4405F.svg)](https://www.bharatui.com)
 
